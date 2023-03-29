@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello to all the curious who came up here 👀👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/W3keANaGsQLC5Ri8DM/giphy.gif" alt="animated" />
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Hi! My name is Carolina (Caro) Salgado, I live in Santiago de Chile and I have three pets: Luke, Flor and Rose.
+My name is Carolina (Caro 🌱) Salgado, I live in Santiago de Chile and I'm a student of Industrial Engineering at University of Chile.
 
 </div>
 
@@ -21,7 +21,15 @@ Hi! My name is Carolina (Caro) Salgado, I live in Santiago de Chile and I have t
     </a>
 </p>
 
+## About me
 
+<br>
+
+- 🤖 I'm interested in Data Science and IT areas.
+- 🐕🐈‍⬛🐈 I have a dog and two cats: Luke, Flor and Rose.
+- 📚 I really like to learn new things.
+
+<br>
 
 ## Tech Stack 🛠️
 
